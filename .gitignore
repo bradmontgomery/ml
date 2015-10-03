@@ -1,0 +1,5 @@
+.coverage
+.coveragerc
+*.sqlite3
+*.db
+env/
