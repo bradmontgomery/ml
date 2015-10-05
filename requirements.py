@@ -26,6 +26,7 @@ pyparsing==2.0.3
 python-dateutil==2.4.2
 pytz==2015.6
 pyzmq==14.7.0
+scikit-learn==0.16.1
 scipy==0.16.0
 simplegeneric==0.8.1
 six==1.9.0
