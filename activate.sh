@@ -1,2 +1,10 @@
+# ----------------------------
+# USAGE:
+#
+#   $ . activate.sh
+#
+# ----------------------------
+
 unset PYTHONPATH;
-source env/bin/activate
+source env/bin/activate;
+jupyter notebok;
