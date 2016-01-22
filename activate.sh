@@ -7,4 +7,4 @@
 
 unset PYTHONPATH;
 source env/bin/activate;
-jupyter notebok;
+jupyter notebook;
